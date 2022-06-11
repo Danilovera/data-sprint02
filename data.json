@@ -1,0 +1,153 @@
+{
+    "restaurantes" :[
+      {
+        "restaurante":"pizzahub",
+        "categoria": "pizza",
+        "horario":"Work time 09:30 - 23:00",
+        "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881449/Captura_de_pantalla_2022-06-10_121651_ffyvmq.png",
+        "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_6_ezsgvu.png",
+        "platos":[
+          {
+            "tipo":"pizza",
+            "plato":"pizza con champiniones",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654884108/proyecto%20sprint2/descarga_wuyyir.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"pizza",
+            "plato":"pizza hawainana",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654884108/proyecto%20sprint2/pizza-margarita_ecbpeh.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada paisa",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920374/proyecto%20sprint2/images_3_m2btxe.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada inglesa",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920373/proyecto%20sprint2/images_2_ftd2lu.jpg",
+            "precio":"9,99"
+          }
+        
+          
+        ]
+
+      },
+      {
+        "restaurante":"Pardes Res",
+        "categoria": "fast food",
+        "horario":"Work time 09:30 - 23:00",
+        "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881454/Captura_de_pantalla_2022-06-10_121629_eccaax.png",
+        "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_7_bq3bul.png",
+
+        "platos":[
+          {
+            "tipo":"hamburguesa",
+            "plato":"hamburguesa colombiana",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654885004/proyecto%20sprint2/images_1_fsla5d.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"hamburguesa",
+            "plato":"hamburguesa cochina",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654885003/proyecto%20sprint2/XQAAMAXBUFFTTONUKMAMMOYOOA_vavcti.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada cesar",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920374/proyecto%20sprint2/images_3_m2btxe.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada repollo",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920373/proyecto%20sprint2/images_2_ftd2lu.jpg",
+            "precio":"9,99"
+          }
+          
+        ]
+
+      },
+      {
+        "restaurante":"mc donalds",
+        "categoria": "fast food",
+        "horario":"Work time 09:30 - 23:00",
+        "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881449/Captura_de_pantalla_2022-06-10_121651_ffyvmq.png",
+        "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_8_jlhjv9.png",
+
+        "platos":[
+         
+          {
+            "tipo":"hamburguesa",
+            "plato":"cajita feliz",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920149/proyecto%20sprint2/Cajita-Feliz-Almuerzo-2048x1364-1_o7jwj2.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"hamburguesa",
+            "plato":"hamburguesa el corral",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654885004/proyecto%20sprint2/images_1_fsla5d.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada cesar",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920374/proyecto%20sprint2/images_3_m2btxe.jpg",
+            "precio":"9,99"
+          },
+          {
+            "tipo":"ensalada",
+            "plato":"ensalada repollo",
+            "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920373/proyecto%20sprint2/images_2_ftd2lu.jpg",
+            "precio":"9,99"
+          }
+        ]
+
+      },
+      {
+        "restaurante":"B&B",
+        "categoria": "fast food",
+        "horario":"Work time 09:30 - 23:00",
+        "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881458/Captura_de_pantalla_2022-06-10_121548_tag850.png",
+        "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_9_rwtlxy.png",
+
+        "platos":[ {
+          "tipo":"pizza",
+          "plato":"pizza clasica",
+          "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654884110/proyecto%20sprint2/descarga_1_n9icrk.jpg",
+          "precio":"9,99"
+        },
+        {
+          "tipo":"pizza",
+          "plato":"pizza clasica",
+          "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654884111/proyecto%20sprint2/images_jb4mnv.jpg",
+          "precio":"9,99"
+          
+        },
+        {
+          "tipo":"ensalada",
+          "plato":"ensalada tomate",
+          "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920374/proyecto%20sprint2/images_3_m2btxe.jpg",
+          "precio":"9,99"
+        },
+        {
+          "tipo":"ensalada",
+          "plato":"ensalada petino",
+          "imgPlato":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654920373/proyecto%20sprint2/images_2_ftd2lu.jpg",
+          "precio":"9,99"
+        }
+      ]
+
+      }
+    ],
+      "usuarios":[
+          {
+              "name": "Danilo",
+              "email":"dani@gmail.com"
+          }
+      ]
+}
