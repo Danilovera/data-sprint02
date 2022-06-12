@@ -6,6 +6,7 @@
         "horario":"Work time 09:30 - 23:00",
         "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881449/Captura_de_pantalla_2022-06-10_121651_ffyvmq.png",
         "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_6_ezsgvu.png",
+        "id":1,
         "platos":[
           {
             "tipo":"pizza",
@@ -42,6 +43,7 @@
         "horario":"Work time 09:30 - 23:00",
         "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881454/Captura_de_pantalla_2022-06-10_121629_eccaax.png",
         "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_7_bq3bul.png",
+        "id":2,
 
         "platos":[
           {
@@ -78,6 +80,7 @@
         "horario":"Work time 09:30 - 23:00",
         "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881449/Captura_de_pantalla_2022-06-10_121651_ffyvmq.png",
         "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_8_jlhjv9.png",
+        "id":3,
 
         "platos":[
          
@@ -114,6 +117,8 @@
         "horario":"Work time 09:30 - 23:00",
         "estrellas":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654881458/Captura_de_pantalla_2022-06-10_121548_tag850.png",
         "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1654715042/proyecto%20sprint2/Mask_group_9_rwtlxy.png",
+        "id":4,
+
 
         "platos":[ {
           "tipo":"pizza",
